@@ -17,3 +17,7 @@ It has some good colletion of latest news reagarding various category
 - Android SDK 21-31
 
 # Preview
+
+<img src="https://user-images.githubusercontent.com/79002770/151766472-8e0d9486-0d1a-4623-9d3f-d340ea6de2fe.jpg" alt="Pal News 1" width="200"/>
+
+![Pal News 1](https://user-images.githubusercontent.com/79002770/151766472-8e0d9486-0d1a-4623-9d3f-d340ea6de2fe.jpg)
