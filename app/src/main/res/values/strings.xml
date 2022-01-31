@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pal News</string>
+    <string name="sachin">Sachin</string>
+    <string name="newsimage">NewsImage</string>
+    <string name="pal_news">Pal News</string>
+    <string name="home">Home</string>
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+</resources>
